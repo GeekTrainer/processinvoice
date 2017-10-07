@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "GitHub",
+    "AzureWebJobsSecretStorageType": "disabled",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "nodeinvoicing_DOCUMENTDB": "AccountEndpoint=https://nodeinvoicing.documents.azure.com:443/;AccountKey=0rEuFg48yQbRiojuLYhM3rZ9Vv5Uu1ZNPCKvDOVI8rCNc5vCYwcfAJWDo50WeWOARXQbNvH4P7NYcM1hwjh11Q==;",
+    "invoicefunctionb9e2_STORAGE": "DefaultEndpointsProtocol=https;AccountName=invoicefunctionb9e2;AccountKey=tOvv3N3+OXvmrLfjmtbpOv0zmjzmYs/Bdy7uFwVEcSwW4zPCR+1bNn6GtC2bnGyuBgt7aUheP+dSmVg7sZyiaw==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=invoicefunctionb9e2;AccountKey=tOvv3N3+OXvmrLfjmtbpOv0zmjzmYs/Bdy7uFwVEcSwW4zPCR+1bNn6GtC2bnGyuBgt7aUheP+dSmVg7sZyiaw==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=invoicefunctionb9e2;AccountKey=tOvv3N3+OXvmrLfjmtbpOv0zmjzmYs/Bdy7uFwVEcSwW4zPCR+1bNn6GtC2bnGyuBgt7aUheP+dSmVg7sZyiaw==",
+    "WEBSITE_CONTENTSHARE": "invoicefunctionb9e2",
+    "WEBSITE_SITE_NAME": "invoicefunction",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=invoicefunctionb9e2;AccountKey=tOvv3N3+OXvmrLfjmtbpOv0zmjzmYs/Bdy7uFwVEcSwW4zPCR+1bNn6GtC2bnGyuBgt7aUheP+dSmVg7sZyiaw=="
+  }
+}

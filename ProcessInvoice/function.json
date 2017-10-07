@@ -1,0 +1,15 @@
+{
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "name": "input",
+      "direction": "in",
+      "leaseCollectionName": "invoiceleases",
+      "connectionStringSetting": "nodeinvoicing_DOCUMENTDB",
+      "databaseName": "admin",
+      "collectionName": "invoices",
+      "createLeaseCollectionIfNotExists": true
+    }
+  ],
+  "disabled": false
+}
